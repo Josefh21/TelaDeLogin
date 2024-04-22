@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#all #info {
+    background-color: rgb(228, 228, 228);
+    border-radius: 5px;
+    text-align: center;
+}
+
+#all #img{
+    width: 300px;
+    margin-top: 60px;
+}
+
+#all button{
+    height: 30px;
+    width: 250px;
+}
+
+#all #nome {
+    margin-bottom: 5px;
+}
+
